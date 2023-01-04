@@ -1,0 +1,20 @@
+@import "./App.scss";
+@import "./components/Header.scss";
+@import "./components/Footer.scss";
+@import "./pages/Home.scss";
+@import "./pages/Login.scss";
+
+@font-face {
+    font-family: 'Neue Machina Light';
+    src: url("../assets/neue-machina/neue-machina-light.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'Neue Machina Regular';
+    src: url("../assets/neue-machina/neue-machina-regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'Neue Machina Bold';
+    src: url("../assets/neue-machina/neue-machina-bold.otf") format('opentype');
+}
